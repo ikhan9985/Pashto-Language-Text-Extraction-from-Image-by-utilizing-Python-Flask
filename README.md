@@ -1,12 +1,12 @@
 # Installing and setting up
-First you have to install the Tesseract OCR on Windows
+- First you have to install the Tesseract OCR on Windows
 ## How to Install and Use Tesseract OCR on Windows - Optical Character Recognition
 https://youtu.be/2kWvk4C1pMo
 
-During Installation set up the language for PASHTO/PUSHTO
+- During Installation set up the language for PASHTO/PUSHTO
 
 ## Update in Code
-You have to change the path in "ocr.py" with the location where you will have installed the Tesseract application. 
+- You have to change the path in "ocr.py" with the location where you will have installed the Tesseract application. 
 
 ![c1](https://user-images.githubusercontent.com/117106355/199105355-5d60a92b-2d9f-4905-9487-fef5585099fb.PNG)
 
